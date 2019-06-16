@@ -28,3 +28,6 @@ Then go to http://localhost:3002
 ## Linting
 
 `npm run lint`
+## Continue
+
+ ...
