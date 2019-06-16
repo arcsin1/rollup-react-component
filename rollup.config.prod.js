@@ -6,7 +6,7 @@ import commonjs from 'rollup-plugin-commonjs'
 import uglify from 'rollup-plugin-uglify'
 import filesize from 'rollup-plugin-filesize'
 
-// 新增 postcss plugins
+// add postcss plugins
 import simplevars from 'postcss-simple-vars'
 import nested from 'postcss-nested'
 import cssnext from 'postcss-cssnext'
